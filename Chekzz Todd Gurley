@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html>
+<title>Todd Gurley Page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+</style>
+<body class="w3-content" style="max-width:1500px">
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-bar-block w3-white w3-collapse w3-top" style="z-index:3;width:200px" id="mySidebar">
+  <div class="w3-container w3-display-container w3-padding-16">
+    <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
+    <h3 class="w3-wide"><b>CHEKZZ</b></h3>
+  </div>
+
+    </a>
+    </a>
+    <nav class="w3-sidebar w3-bar-block w3-white w3-collapse w3-top" style="z-index:3;width:200px" id="mySidebar">
+  <div class="w3-container w3-display-container w3-padding-16">
+    <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
+    <a href="file:///Users/malik1753/Downloads/bootstrap-3.3.2-dist/bootstrap_demos/good%20chekzz%20homepage.html"/>
+    <h3 class="w3-wide"><b>CHEKZZ</b></h3>
+    <a href="file:///Users/malik1753/Downloads/bootstrap-3.3.2-dist/bootstrap_demos/good%20chekzz%20homepage.html"/>
+  </div>
+  
+
+ <div class="w3-padding-64 w3-large w3-text-black" style="font-weight:bold" colorname="black">
+  <a onclick="myAccFunc()" href="javascript:void(0)" class="w3-button w3-block w3-white w3-left-align" id="myBtn">
+      Todd Gurley Twitter<i class="fa fa-caret-down"></i>  
+    </a>
+    </a>
+    <div id="demoAcc" class="w3-bar-block w3-hide w3-padding-large w3-medium">
+     
+  
+  
+    <a href="https://twitter.com/TG3II?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="twitter-follow-button" data-show-count="false"></a>
+    <a class="twitter-timeline" data-width="350" href="https://twitter.com/TG3II?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+</a> 
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+    </script>  
+  </body>
+</nav>
+  <script>
+$(function() {
+  console.log('twitter');
+});
+
+body {
+  background-color:#333;
+  text-align:center;
+}
+.twitter-follow-button{
+  margin-top:100px;
+  transform:scale(2.1);
+}
+.twitter-timeline{
+  margin-top:180px;
+}
+</script>   
+    </div>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-bar w3-top w3-hide-large w3-black w3-xlarge">
+  <div class="w3-bar-item w3-padding-24 w3-wide">Chekzz</div>
+  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:220px">
+
+  <!-- Push down content on small screens -->
+  <div class="w3-hide-large" style="margin-top:83px"></div>
+  
+
+
+  
+
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1350px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+
+      <div class="w3-white w3-text-grey w3-card-4">
+         <div class="w3-display-container">
+      <img src="http://www.wruf.com/wp-content/uploads/2016/09/USATSI_9511513-e1473705832116-660x330.jpg" height="250" width="245"><bp>
+          <div class="w3-display-bottomleft w3-container w3-text-White">
+          </div>
+        </div>
+         
+        <div class="w3-container">
+           <body>
+     
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-ball fa-fw w3-margin-right w3-text-black"></i><div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('Products')">Products</button>
+  <button class="btn" onclick="filterSelection('News')">  News/Analysis</button>
+    <button class="btn" onclick="filterSelection('Chekzz')"> Stats</button>
+</div>About Todd Gurley</b></p>
+          <p>NFL Runningback</p>
+          <p>Los Angles Rams</P>
+          <p> August 3, 1994 (age 23 years)</p>
+          <p>Baltimore, MD</p>
+          <p>6′ 1″</p>
+          <p> 231 lbs</p>
+
+ 
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-ball fa-fw w3-margin-right w3-text-black"></i>Related</b></p>
+          <p>1. Patriots</p>
+          <img Src="https://cdn.vox-cdn.com/thumbor/8u3ETxPUdUZUrG8-eSA1-06bKSw=/0x0:1906x1272/1200x800/filters:focal(801x484:1105x788)/cdn.vox-cdn.com/uploads/chorus_image/image/59562823/Bildschirmfoto_2018_04_03_um_13.10.16.0.png" height="50" width="50">
+          <div class="w3-dark-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-red" style="height:24px;width:87%">87% Rating</div>
+          </div>
+          <p>2.Dress Bress</p>
+          <img src="http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2580.png&w=350&h=254" width="50" height="50">
+          <div class="w3-dark-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-red" style="height:24px;width:81%">81% Rating</div>
+          </div>
+          <p>3.Rob Gronkowski</p>
+          <img src="https://amp.businessinsider.com/images/5ad4ab6f146e712a008b4a2d-750-375.jpg" height="50" width="50">
+          <div class="w3-dark-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-yellow" style="height:24px;width:99%">99% Rating</div>
+          </div>
+           <p>4.Matt Ryan</p>
+          <img src="http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/11237.png&w=350&h=254" width="50" height="50">
+          <div class="w3-dark-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-purple" style="height:24px;width:84%">84% Rating</div>
+          </div> <p>5.Aaron Rodgers</p>
+          <img src="http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/8439.png&w=350&h=254" width="50" height="50">
+          <div class="w3-dark-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-blue" style="height:24px;width:89%">89% Rating</div>
+          </div>
+
+          <br>
+          <br>
+
+           <br>
+
+        
+          <br>
+
+        </div>
+
+    
+<hr>
+       
+          <div class="w3-light-black w3-round-xlarge w3-small">
+          </div>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">
+            </div>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">  
+          </div>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">
+          </div>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">
+          </div>
+              <h1></h1>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">
+          </div>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small w3-text-black">
+            </div>
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">  
+          </div>
+            </div><br>
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+        <h2 class="w3-text-black w3-padding-16"><i class="fa fa-cd fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Todd Gurley</h2>
+        <div class="w3-container">
+         
+      <style>
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 3px;
+    text-align: left;    
+
+
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th 
+}
+
+</style>
+</head>
+<style> @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sixTopicsContainer {
+  max-width: 750px;
+  margin: 0;
+  padding: 0;
+}
+
+.sixTopicsBanner {
+  width: 100%;
+  height: auto;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  overflow: hidden;
+}
+
+.sixTopicsWrapper {
+  max-width: 750px;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.sixTopicsBoxes {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: wrap;
+  -webkit-flex-flow: wrap;
+  justify-content: space-around;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.sixTopicsBox {
+  position: relative;
+  display: block;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.sixTopicsBox img {
+  margin: 10px;
+  padding: 0;
+}
+
+.sixTopicsBox p {
+  position: absolute;
+  bottom: 25%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.sixTopicsBox:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.sixTopicsTech {
+  max-width: 730px;
+  background: #492365;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 1em;
+  text-align: center;
+  border-top: 10px solid #7f56c5;
+}</style>
+<style>
+marquee {
+   
+   font: 30px  Helvetica, Verdana, sans-serif;
+   font-weight:bold ;
+   background-color: white;
+    
+}
+ </style>
+ 
+      
+    
+      <marquee> Todd Gurley career regular season stats  </marquee>
+
+
+<h2>Todd Gurley</h2>
+
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('Products')">Products</button>
+  <button class="btn" onclick="filterSelection('Social')">  Social Media</button>
+  <button class="btn" onclick="filterSelection('News')">  News/Analysis</button>
+    <button class="btn" onclick="filterSelection('Chekzz')"> Stats</button>
+</div>
+
+
+
+
+<!-- Portfolio Gallery Grid -->
+<table style="width:100%">
+  <tr>
+
+    <th colspan="3"></th>
+  </tr>
+  
+
+<h1>Chekzz Todd Gurley</h1>
+  <div class="column Social">
+    <div class="content">
+      <a href="https://www.instagram.com/p/BpOGXWPA3DF/?hl=en&taken-by=tg4hunnid">
+      <img src="https://scontent-lga3-1.cdninstagram.com/vp/13827c1c3018fb4f7fe57627e31a8523/5C6C62E7/t51.2885-15/e35/43779394_276593709629381_4372205050093633536_n.jpg" alt="Lights"height="280" width="240" href="https://www.instagram.com/p/BpOGXWPA3DF/?hl=en&taken-by=tg4hunnid">
+      <a href="https://www.instagram.com/p/BpOGXWPA3DF/?hl=en&taken-by=tg4hunnid">
+        <p>via Instagram</p>
+</div>
+</div>
+ <div class="column Social">
+    <div class="content">
+      <a href="https://www.instagram.com/p/BpPg9qNA0kx/?hl=en&taken-by=tg4hunnid">
+ <img src="https://scontent-lga3-1.cdninstagram.com/vp/49c01f11b31337d0ba1734ed49a9e6b1/5C55C041/t51.2885-15/e35/43820667_299619494203565_7223589741478805504_n.jpg" alt="Lights"height="280" width="240">
+ <a href="https://www.instagram.com/p/BpPg9qNA0kx/?hl=en&taken-by=tg4hunnid">
+ <p>via Instagram</p>
+</div>
+</div>
+ <div class="column Social">
+    <div class="content">
+      <a href="https://www.instagram.com/p/BpN6IVlAmU4/?hl=en&taken-by=tg4hunnid">
+<img src="https://scontent-lga3-1.cdninstagram.com/vp/d2ecd519497393b069603ec23cc5760d/5C4FB245/t51.2885-15/e35/43222075_1665969906837328_4011315045748178944_n.jpg" height="280" width="240">
+      <a href="https://www.instagram.com/p/BpN6IVlAmU4/?hl=en&taken-by=tg4hunnid">
+        <p>via Instagram</p>
+</div>
+</div>
+ <div class="column Products">
+    <div class="content">
+      <a href="https://www.nflshop.com/Mens_Los_Angeles_Rams_Todd_Gurley_Pro_Line_Team_Color_Jersey/t-36820304+o-4616+d-892688345+f-0224761+z-9-814548307?utm_medium=cse&_s=ak1944nfl-pla&sku=7261504&targetid=pla-72891573749&gclid=Cj0KCQjwsMDeBRDMARIsAKrOP7EnfA6P7rQv72BaIxaNWQCpL9p_oVk2uiu5QRyeBde4aW4PFR_EKIQaAtveEALw_wcB">
+<img src="https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_2220000/ff_2220689_xl.jpg&w=600"height="280" width="240">
+<a href="https://www.nflshop.com/Mens_Los_Angeles_Rams_Todd_Gurley_Pro_Line_Team_Color_Jersey/t-36820304+o-4616+d-892688345+f-0224761+z-9-814548307?utm_medium=cse&_s=ak1944nfl-pla&sku=7261504&targetid=pla-72891573749&gclid=Cj0KCQjwsMDeBRDMARIsAKrOP7EnfA6P7rQv72BaIxaNWQCpL9p_oVk2uiu5QRyeBde4aW4PFR_EKIQaAtveEALw_wcB">
+<p>Men's Los Angeles Rams Todd Gurley Pro Line Team Color Jersey</p>
+
+
+</div>
+</div>
+  <div class="column Products">
+    <div class="content">
+      <a href="https://www.fanatics.com/Todd_Gurley_II_Los_Angeles_Rams_Nike_Game_Jersey__White/t-36263693+o-6816+d-4233784+f-5312405+z-8-1274262391?utm_medium=cse&_s=GPA_CA&sku=10442094&gclid=Cj0KCQjwsMDeBRDMARIsAKrOP7Ep4SHHDI1_m61zQ9tKqxkhJWsnnzGjucfRD4QkRMejKKtlwbetRa0aAjsvEALw_wcB">
+<img src="https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3026000/altimages/ff_3026362alt1_full.jpg&w=600" height="280" width="240">
+<a href="https://www.fanatics.com/Todd_Gurley_II_Los_Angeles_Rams_Nike_Game_Jersey__White/t-36263693+o-6816+d-4233784+f-5312405+z-8-1274262391?utm_medium=cse&_s=GPA_CA&sku=10442094&gclid=Cj0KCQjwsMDeBRDMARIsAKrOP7Ep4SHHDI1_m61zQ9tKqxkhJWsnnzGjucfRD4QkRMejKKtlwbetRa0aAjsvEALw_wcB">
+  <p>Todd Gurley II Los Angeles Rams Nike Game Jersey – White</p>
+
+</div>
+</div>
+<div class="column Products">
+    <div class="content">
+
+<a href="https://www.ramsfanshop.com/mens-nike-todd-gurley-ii-gold-los-angeles-rams-color-rush-legend-player-jersey/p-24104353505963+z-855-193833248">
+<img src="https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_2998000/altimages/ff_2998547alt1_full.jpg&w=900" height="280" width="240">
+ <a href="https://www.ramsfanshop.com/mens-nike-todd-gurley-ii-gold-los-angeles-rams-color-rush-legend-player-jersey/p-24104353505963+z-855-193833248">
+  <p>Men's Nike Todd Gurley II Gold Los Angeles Rams Color Rush Legend Player Jersey</p>
+
+</div>
+</div>
+
+
+
+
+ 
+  <div class="column News">
+    <div class="content">
+      <a href="https://bleacherreport.com/articles/2802629-2018-nfl-mvp-odds-patrick-mahomes-remains-favorite-ahead-of-todd-gurley-more">
+<img src="https://img.bleacherreport.net/img/images/photos/003/771/161/hi-res-b977a03710f8287c6684798dca5cfb43_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top"height="280" width="240">
+    <a href="https://bleacherreport.com/articles/2802629-2018-nfl-mvp-odds-patrick-mahomes-remains-favorite-ahead-of-todd-gurley-more" >
+      <p>2018 NFL MVP Odds: Patrick Mahomes Remains Favorite Ahead of Todd Gurley, More</p><p>via Bleacher Report</p>
+  </div>
+</div>
+
+   <div class="column News">
+    <div class="content">
+      <a href="https://www.si.com/nfl/2018/10/22/todd-gurley-mvp-los-angeles-rams-sean-mcvay-offense">
+        <img src="https://cdn.vox-cdn.com/thumbor/-KMZ8Rtsu0Qu5GLKmpSGVjboZh0=/0x0:3900x2694/1200x800/filters:focal(2191x884:2815x1508)/cdn.vox-cdn.com/uploads/chorus_image/image/60596477/901979386.jpg.0.jpg" height="280" width="240">
+             <a href="https://www.si.com/nfl/2018/10/22/todd-gurley-mvp-los-angeles-rams-sean-mcvay-offense">
+        <p>Todd Gurley and the MVP Debate</p><p>via Sports Illustrated</p>
+
+</div>
+</div>
+
+
+    
+  <div class="column News">
+    <div class="content">
+      <a href="https://theramswire.usatoday.com/2018/10/22/nfl-rams-todd-gurley-bills-touchdowns-stats-2018/">
+        <img src="https://pbs.twimg.com/media/DqHaGL3WwAAKVTH.jpg" height="280" width="240">
+              <a href="https://theramswire.usatoday.com/2018/10/22/nfl-rams-todd-gurley-bills-touchdowns-stats-2018/">
+<p>Todd Gurley has scored more points than Bills, more TDs than 8 teams</p>
+    </div>
+  
+
+
+<!-- END MAIN -->
+
+
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>
+
+      
+ 
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+    </td>
+    
+  </tr>
+</table>
+
+
+  <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+}
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+}
+
+.row {
+    margin: 10px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: white;
+    padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
+</head>
+
+
+  <!-- End page content -->
+</div>
+ <script>
+// Accordion 
+function myAccFunc() {
+    var x = document.getElementById("demoAcc");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+// Click on the "Jeans" link on page load to open the accordion for demo purposes
+document.getElementById("myBtn").click();
+
+
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+
+
+</body>
+</html>
+
